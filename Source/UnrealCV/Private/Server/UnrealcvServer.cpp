@@ -3,6 +3,7 @@
 #include "Runtime/Engine/Classes/Engine/GameEngine.h"
 #include "Runtime/Core/Public/Internationalization/Regex.h"
 #include "Runtime/Engine/Classes/GameFramework/PlayerController.h"
+#include "Editor/UnrealEd/Classes/Editor/EditorEngine.h"
 
 #include "ConsoleHelper.h"
 #include "Commands/ObjectHandler.h"
